@@ -1,0 +1,115 @@
+Epoch 1
+Total loss is 15272.3076171875
+Exact logical form matches: 1 / 120 = 0.008
+Token-level accuracy: 1381 / 3908 = 0.353
+Denotation matches: 0 / 120 = 0.000
+Epoch 2
+Total loss is 6600.60205078125
+Exact logical form matches: 3 / 120 = 0.025
+Token-level accuracy: 1684 / 3908 = 0.431
+Denotation matches: 0 / 120 = 0.000
+Epoch 1
+Total loss is 15597.7431640625
+Exact logical form matches: 0 / 120 = 0.000
+Token-level accuracy: 1477 / 3908 = 0.378
+Denotation matches: 0 / 120 = 0.000
+Epoch 2
+Total loss is 6895.10693359375
+Exact logical form matches: 2 / 120 = 0.017
+Token-level accuracy: 1603 / 3908 = 0.410
+Denotation matches: 0 / 120 = 0.000
+Epoch 1
+Total loss is 15337.90625
+Epoch 2
+Total loss is 6725.35693359375
+Epoch 1
+Total loss is 15830.2412109375
+Epoch 2
+Total loss is 7115.603515625
+Epoch 3
+Total loss is 5507.9794921875
+Epoch 4
+Total loss is 4591.72216796875
+Epoch 5
+Total loss is 4018.504150390625
+Epoch 6
+Total loss is 3385.0947265625
+Epoch 7
+Total loss is 2643.447998046875
+Epoch 8
+Total loss is 2138.7421875
+Epoch 9
+Total loss is 1842.55029296875
+Epoch 10
+Total loss is 1980.058837890625
+Epoch 11
+Total loss is 1797.440673828125
+Epoch 12
+Total loss is 1532.6358642578125
+Epoch 13
+Total loss is 1254.1929931640625
+Epoch 14
+Total loss is 1250.58056640625
+Epoch 15
+Total loss is 1358.2711181640625
+Epoch 16
+Total loss is 1212.40966796875
+Epoch 17
+Total loss is 1227.011962890625
+Epoch 18
+Total loss is 1042.494140625
+Epoch 19
+Total loss is 1525.3218994140625
+Epoch 20
+Total loss is 1176.8746337890625
+Epoch 1
+Total loss is 15523.115234375
+Epoch 1
+Total loss is 16358.443359375
+Epoch 1
+Total loss is 15573.5234375
+Epoch 1
+Total loss is 15519.9541015625
+Epoch 1
+Total loss is 14890.5205078125
+Epoch 2
+Total loss is 6619.73681640625
+Epoch 1
+Total loss is 15485.052734375
+Epoch 1
+Total loss is 15796.6220703125
+Epoch 1
+Total loss is 15593.10546875
+Epoch 1
+Total loss is 15536.5732421875
+Epoch 2
+Epoch 1
+Total loss is 15935.8515625
+Epoch 2
+Total loss is 6864.14013671875
+Epoch 1
+Total loss is 15328.7958984375
+Epoch 2
+Total loss is 7078.25
+Epoch 1
+Total loss is 16160.083984375
+Epoch 2
+Total loss is 6903.888671875
+Epoch 1
+Total loss is 15540.9814453125
+Epoch 2
+Total loss is 6956.3681640625
+Epoch 1
+Total loss is 15643.0458984375
+Epoch 1
+Total loss is 13325.361328125
+Epoch 1
+Total loss is 15469.2275390625
+Epoch 1
+Total loss is 17304.568359375
+Epoch 1
+Total loss is 17818.587890625
+Epoch 1
+Total loss is 14690.583984375
+Epoch 1
+Total loss is 16011.6279296875
